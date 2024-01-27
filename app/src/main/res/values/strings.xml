@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">buss</string>
+    <string name="sem" />
+    <string name="semester">sem</string>
+    <string name="name">name</string>
+    <string name="srn">srn</string>
+    <string name="course">course</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="upload">Upload</string>
+    <string name="pickuppoint">PickUpPoint</string>
+</resources>
